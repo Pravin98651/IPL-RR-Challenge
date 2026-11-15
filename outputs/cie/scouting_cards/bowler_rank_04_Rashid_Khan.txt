@@ -1,0 +1,30 @@
+========================================================================================
+CLUTCH INTELLIGENCE SCOUTING CARD | BOWLER EVALUATION
+Candidate: RASHID KHAN | Rank: #4 | CIE Rating: 60.47
+========================================================================================
+
+1. OPPORTUNITY & EXPOSURE PROFILE
+   • High-Pressure Legal Deliveries Bowled: 183 balls across 27 matches
+   • Tournament Allocation: 112 IPL balls | 75 T20I balls
+   • Innings Split: 35 1st Innings balls | 152 2nd Innings balls
+   • Match Consistency: 85.2% positive-suppression matches
+
+2. PERFORMANCE DUALITY (NEUTRAL VS. PRESSURE)
+   Metric                   Neutral Baseline       High-Pressure       Delta (Clutch Suppr.)
+   ----------------------------------------------------------------------------------------
+   Economy Rate                   7.42                 7.67              -0.26
+   Runs Prevented / Ball        0.000 (Neutral)          +0.181             +0.181
+   Win Probability Added        0.00%                     +1.08%              +1.08%
+   Wickets Taken Under Pressure: 19 wickets in 30.5 overs
+
+3. BAYESIAN HIERARCHICAL PRESSURE-RESPONSE COEFFICIENTS
+   • Baseline Suppression (v_i):          +0.116 ± 0.000
+   • Urgency Response Slope (lambda_i):   -0.305 ± 0.138 (Run suppression as opponent urgency rises)
+   • Leverage Response Slope (phi_i):     +0.381 ± 0.197 (Execution when match swing is acute)
+   • Behavioral Archetype:                High-Variance Option
+
+4. SAMPLING UNCERTAINTY & RANKING STABILITY (1,000 MATCH-LEVEL BOOTSTRAP REPLICATES)
+   • 95% Rating Confidence Interval:      [46.76, 66.94] (Interval Width: 20.18 pts)
+   • Bootstrap Mean Rank:                 #12.7
+   • Probability of Top-10 Inclusion:    44.3% across resampled cricket seasons
+========================================================================================

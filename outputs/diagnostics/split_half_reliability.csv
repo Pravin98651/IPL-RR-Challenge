@@ -1,0 +1,3 @@
+role,n_players,r,spearman_brown,ci_lower,ci_upper
+batting,68,0.084,0.155,-0.3007,0.4758
+bowling,89,0.1567,0.2709,-0.124,0.5036

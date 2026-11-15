@@ -1,0 +1,30 @@
+========================================================================================
+CLUTCH INTELLIGENCE SCOUTING CARD | BOWLER EVALUATION
+Candidate: MAHEESH THEEKSHANA | Rank: #9 | CIE Rating: 58.56
+========================================================================================
+
+1. OPPORTUNITY & EXPOSURE PROFILE
+   • High-Pressure Legal Deliveries Bowled: 161 balls across 25 matches
+   • Tournament Allocation: 66 IPL balls | 98 T20I balls
+   • Innings Split: 24 1st Innings balls | 140 2nd Innings balls
+   • Match Consistency: 72.0% positive-suppression matches
+
+2. PERFORMANCE DUALITY (NEUTRAL VS. PRESSURE)
+   Metric                   Neutral Baseline       High-Pressure       Delta (Clutch Suppr.)
+   ----------------------------------------------------------------------------------------
+   Economy Rate                   7.79                 7.49              +0.30
+   Runs Prevented / Ball        0.000 (Neutral)          +0.177             +0.177
+   Win Probability Added        0.00%                     +0.42%              +0.42%
+   Wickets Taken Under Pressure: 11 wickets in 26.8 overs
+
+3. BAYESIAN HIERARCHICAL PRESSURE-RESPONSE COEFFICIENTS
+   • Baseline Suppression (v_i):          +0.062 ± 0.000
+   • Urgency Response Slope (lambda_i):   +0.039 ± 0.142 (Run suppression as opponent urgency rises)
+   • Leverage Response Slope (phi_i):     +0.059 ± 0.236 (Execution when match swing is acute)
+   • Behavioral Archetype:                Reliable Executive
+
+4. SAMPLING UNCERTAINTY & RANKING STABILITY (1,000 MATCH-LEVEL BOOTSTRAP REPLICATES)
+   • 95% Rating Confidence Interval:      [52.23, 69.77] (Interval Width: 17.54 pts)
+   • Bootstrap Mean Rank:                 #8.5
+   • Probability of Top-10 Inclusion:    71.9% across resampled cricket seasons
+========================================================================================

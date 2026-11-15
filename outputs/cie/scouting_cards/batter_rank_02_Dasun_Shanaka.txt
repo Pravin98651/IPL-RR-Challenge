@@ -1,0 +1,30 @@
+========================================================================================
+CLUTCH INTELLIGENCE SCOUTING CARD | BATTER EVALUATION
+Candidate: DASUN SHANAKA | Rank: #2 | CIE Rating: 63.57
+========================================================================================
+
+1. OPPORTUNITY & EXPOSURE PROFILE
+   • High-Pressure Deliveries Faced: 205 balls across 26 matches
+   • Tournament Allocation: 7 IPL balls | 198 T20I balls
+   • Innings Split: 50 1st Innings balls | 155 2nd Innings balls
+   • Match Consistency: 53.8% positive-RAE matches
+
+2. PERFORMANCE DUALITY (NEUTRAL VS. PRESSURE)
+   Metric                   Neutral Baseline       High-Pressure       Delta (Clutch Elev.)
+   ----------------------------------------------------------------------------------------
+   Strike Rate                  127.27               171.71             +44.43
+   Runs Above Exp / Ball        0.000 (Neutral)          +0.264             +0.264
+   Win Probability Added        0.00%                     +0.76%              +0.76%
+   Runs Scored Under Pressure:  352 runs off 205 balls
+
+3. BAYESIAN HIERARCHICAL PRESSURE-RESPONSE COEFFICIENTS
+   • Baseline Skill Parameter (u_i):       -0.415 ± 0.000
+   • Urgency Response Slope (beta_i):      +1.087 ± 0.305 (Response to rising RRR & resource scarcity)
+   • Leverage Response Slope (theta_i):    -0.068 ± 0.157 (Response to match outcome sensitivity)
+   • Behavioral Archetype:                 Hyper-Clutch Accelerator
+
+4. SAMPLING UNCERTAINTY & RANKING STABILITY (1,000 MATCH-LEVEL BOOTSTRAP REPLICATES)
+   • 95% Rating Confidence Interval:       [52.83, 74.41] (Interval Width: 21.58 pts)
+   • Bootstrap Mean Rank:                  #6.6
+   • Probability of Top-10 Inclusion:     82.0% across resampled cricket seasons
+========================================================================================

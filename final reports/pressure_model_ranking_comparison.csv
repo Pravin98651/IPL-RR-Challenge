@@ -1,0 +1,11 @@
+rank,batter_model_A,batter_model_B,batter_model_C,batter_A_rating,batter_B_rating,batter_C_rating,bowler_model_A,bowler_model_B,bowler_model_C,bowler_A_rating,bowler_B_rating,bowler_C_rating
+1,Mahendra Singh Dhoni,Heinrich Klaasen,Rinku Singh,72.02,77.59,77.76,Yuzvendra Chahal,Sunil Narine,Abrar Ahmed,80.19,77.83,77.69
+2,Rinku Singh,Ashutosh Sharma,Rashid Khan,71.34,69.71,75.84,Shaheen Afridi,Krunal Pandya,Tim Southee,80.15,74.73,72.29
+3,Dhruv Jurel,Shashank Singh,Mahendra Singh Dhoni,71.24,69.28,73.22,Sunil Narine,Rashid Khan,Sunil Narine,71.31,71.52,70.28
+4,M Shahrukh Khan,Shreyas Iyer,Ashutosh Sharma,67.75,68.22,69.97,Matheesha Pathirana,Matheesha Pathirana,Mohit Sharma,70.98,69.35,68.4
+5,Dasun Shanaka,Dinesh Karthik,Tim David,65.9,66.52,68.13,Jofra Archer,Mustafizur Rahman,Akeal Hosein,69.16,66.38,67.21
+6,Tim David,Tim David,Heinrich Klaasen,65.62,66.48,67.85,Eshan Malinga,Yuzvendra Chahal,Matheesha Pathirana,68.88,65.03,66.64
+7,Ashutosh Sharma,Suryakumar Yadav,Rovman Powell,65.07,66.32,67.55,Taskin Ahmed,Maheesh Theekshana,Krunal Pandya,68.3,64.6,66.29
+8,David Miller,Rashid Khan,Shreyas Iyer,64.24,66.23,64.54,Jasprit Bumrah,Varun Chakravarthy,Mitchell Santner,68.18,62.46,65.48
+9,Sikandar Raza,Mahendra Singh Dhoni,Dinesh Karthik,63.65,66.05,61.61,Lungi Ngidi,Jason Holder,Kuldeep Yadav,67.98,62.21,64.3
+10,George Dockrell,Rovman Powell,Jason Holder,63.6,63.11,61.44,Tim Southee,Ravichandran Ashwin,Jasprit Bumrah,67.56,61.61,63.99

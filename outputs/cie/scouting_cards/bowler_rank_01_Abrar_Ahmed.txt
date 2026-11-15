@@ -1,0 +1,30 @@
+========================================================================================
+CLUTCH INTELLIGENCE SCOUTING CARD | BOWLER EVALUATION
+Candidate: ABRAR AHMED | Rank: #1 | CIE Rating: 68.07
+========================================================================================
+
+1. OPPORTUNITY & EXPOSURE PROFILE
+   • High-Pressure Legal Deliveries Bowled: 81 balls across 9 matches
+   • Tournament Allocation: 0 IPL balls | 82 T20I balls
+   • Innings Split: 6 1st Innings balls | 76 2nd Innings balls
+   • Match Consistency: 100.0% positive-suppression matches
+
+2. PERFORMANCE DUALITY (NEUTRAL VS. PRESSURE)
+   Metric                   Neutral Baseline       High-Pressure       Delta (Clutch Suppr.)
+   ----------------------------------------------------------------------------------------
+   Economy Rate                   6.77                 5.93              +0.85
+   Runs Prevented / Ball        0.000 (Neutral)          +0.300             +0.300
+   Win Probability Added        0.00%                     +0.80%              +0.80%
+   Wickets Taken Under Pressure: 5 wickets in 13.5 overs
+
+3. BAYESIAN HIERARCHICAL PRESSURE-RESPONSE COEFFICIENTS
+   • Baseline Suppression (v_i):          -0.136 ± 0.000
+   • Urgency Response Slope (lambda_i):   +0.493 ± 0.216 (Run suppression as opponent urgency rises)
+   • Leverage Response Slope (phi_i):     +0.250 ± 0.352 (Execution when match swing is acute)
+   • Behavioral Archetype:                Elite Lock-Down Specialist
+
+4. SAMPLING UNCERTAINTY & RANKING STABILITY (1,000 MATCH-LEVEL BOOTSTRAP REPLICATES)
+   • 95% Rating Confidence Interval:      [67.74, 82.35] (Interval Width: 14.61 pts)
+   • Bootstrap Mean Rank:                 #1.4
+   • Probability of Top-10 Inclusion:    100.0% across resampled cricket seasons
+========================================================================================

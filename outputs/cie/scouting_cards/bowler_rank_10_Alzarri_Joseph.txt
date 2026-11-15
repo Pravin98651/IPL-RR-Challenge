@@ -1,0 +1,30 @@
+========================================================================================
+CLUTCH INTELLIGENCE SCOUTING CARD | BOWLER EVALUATION
+Candidate: ALZARRI JOSEPH | Rank: #10 | CIE Rating: 56.63
+========================================================================================
+
+1. OPPORTUNITY & EXPOSURE PROFILE
+   • High-Pressure Legal Deliveries Bowled: 152 balls across 19 matches
+   • Tournament Allocation: 51 IPL balls | 110 T20I balls
+   • Innings Split: 42 1st Innings balls | 119 2nd Innings balls
+   • Match Consistency: 57.9% positive-suppression matches
+
+2. PERFORMANCE DUALITY (NEUTRAL VS. PRESSURE)
+   Metric                   Neutral Baseline       High-Pressure       Delta (Clutch Suppr.)
+   ----------------------------------------------------------------------------------------
+   Economy Rate                   9.60                10.70              -1.09
+   Runs Prevented / Ball        0.000 (Neutral)          -0.138             -0.138
+   Win Probability Added        0.00%                     +0.45%              +0.45%
+   Wickets Taken Under Pressure: 13 wickets in 25.3 overs
+
+3. BAYESIAN HIERARCHICAL PRESSURE-RESPONSE COEFFICIENTS
+   • Baseline Suppression (v_i):          -0.053 ± 0.000
+   • Urgency Response Slope (lambda_i):   +0.010 ± 0.201 (Run suppression as opponent urgency rises)
+   • Leverage Response Slope (phi_i):     -0.029 ± 0.206 (Execution when match swing is acute)
+   • Behavioral Archetype:                Reliable Executive
+
+4. SAMPLING UNCERTAINTY & RANKING STABILITY (1,000 MATCH-LEVEL BOOTSTRAP REPLICATES)
+   • 95% Rating Confidence Interval:      [38.81, 63.57] (Interval Width: 24.76 pts)
+   • Bootstrap Mean Rank:                 #22.2
+   • Probability of Top-10 Inclusion:    10.0% across resampled cricket seasons
+========================================================================================

@@ -1,0 +1,6 @@
+min_balls,eligible_batters,top_5
+60,83,"['Heinrich Klaasen', 'Mohammad Nabi', 'Ashutosh Sharma', 'Shashank Singh', 'Daryl Mitchell']"
+80,57,"['Heinrich Klaasen', 'Ashutosh Sharma', 'Shashank Singh', 'Daryl Mitchell', 'Shreyas Iyer']"
+100,42,"['Heinrich Klaasen', 'Ashutosh Sharma', 'Shashank Singh', 'Shreyas Iyer', 'Rashid Khan']"
+120,32,"['Heinrich Klaasen', 'Ashutosh Sharma', 'Shreyas Iyer', 'Tim David', 'Suryakumar Yadav']"
+150,21,"['Shreyas Iyer', 'Tim David', 'Suryakumar Yadav', 'Rashid Khan', 'Rovman Powell']"

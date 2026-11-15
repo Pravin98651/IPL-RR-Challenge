@@ -1,0 +1,7 @@
+scale,spearman_batting_rae,p_batting_rae,spearman_dismissal_rate,p_dismissal_rate,spearman_boundary_rate,p_boundary_rate,spearman_bowling_runs_prevented,spearman_bowling_economy_vs_expected,p_bowling,wilcoxon_mwu_stat,wilcoxon_mwu_p,mean_rae_low_quartile,mean_rae_high_quartile,rae_quartile_diff,n_batting_deliveries
+Scale_A_Urgency,0.0241,0.0,0.057,0.0,0.0004,0.861169,-0.017,0.017,0.0,1136030546.5,0.0,0.0609,0.1266,0.0657,186516
+Scale_B_Leverage,-0.0173,0.0,-0.0124,0.0,-0.0074,0.001393,0.0172,-0.0172,0.0,10032134583.0,2.7e-05,0.0736,0.0485,-0.0251,186516
+Scale_Hybrid,0.0217,0.0,0.0519,0.0,-0.0044,0.059814,-0.0145,0.0145,0.0,1145118223.5,0.0,0.063,0.0953,0.0323,186516
+Existing_Hybrid,0.0311,0.0,0.0462,0.0,-0.0199,0.0,-0.026,0.026,0.0,1139261480.0,0.0,0.0708,0.0712,0.0005,186516
+CIE_Urgency,0.0539,0.0,0.0545,0.0,-0.0213,0.0,-0.0482,0.0482,0.0,1167632982.0,0.0,0.0535,0.1145,0.0609,186516
+CIE_Leverage,-0.0186,0.0,0.0155,0.0,0.0036,0.116163,0.0217,-0.0217,0.0,1061003873.5,0.0,0.107,0.0564,-0.0506,186516

@@ -1,0 +1,30 @@
+========================================================================================
+CLUTCH INTELLIGENCE SCOUTING CARD | BATTER EVALUATION
+Candidate: NAMAN DHIR | Rank: #1 | CIE Rating: 72.94
+========================================================================================
+
+1. OPPORTUNITY & EXPOSURE PROFILE
+   • High-Pressure Deliveries Faced: 32 balls across 9 matches
+   • Tournament Allocation: 18 IPL balls | 14 T20I balls
+   • Innings Split: 11 1st Innings balls | 21 2nd Innings balls
+   • Match Consistency: 77.8% positive-RAE matches
+
+2. PERFORMANCE DUALITY (NEUTRAL VS. PRESSURE)
+   Metric                   Neutral Baseline       High-Pressure       Delta (Clutch Elev.)
+   ----------------------------------------------------------------------------------------
+   Strike Rate                  166.25               259.38             +93.12
+   Runs Above Exp / Ball        0.000 (Neutral)          +1.013             +1.013
+   Win Probability Added        0.00%                     +2.28%              +2.28%
+   Runs Scored Under Pressure:  83 runs off 32 balls
+
+3. BAYESIAN HIERARCHICAL PRESSURE-RESPONSE COEFFICIENTS
+   • Baseline Skill Parameter (u_i):       -0.165 ± 0.000
+   • Urgency Response Slope (beta_i):      +0.761 ± 0.282 (Response to rising RRR & resource scarcity)
+   • Leverage Response Slope (theta_i):    +0.614 ± 0.279 (Response to match outcome sensitivity)
+   • Behavioral Archetype:                 Hyper-Clutch Accelerator
+
+4. SAMPLING UNCERTAINTY & RANKING STABILITY (1,000 MATCH-LEVEL BOOTSTRAP REPLICATES)
+   • 95% Rating Confidence Interval:       [nan, nan] (Interval Width: nan pts)
+   • Bootstrap Mean Rank:                  #nan
+   • Probability of Top-10 Inclusion:     nan% across resampled cricket seasons
+========================================================================================

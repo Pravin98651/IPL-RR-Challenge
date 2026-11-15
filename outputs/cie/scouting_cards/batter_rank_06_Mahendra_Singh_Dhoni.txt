@@ -1,0 +1,30 @@
+========================================================================================
+CLUTCH INTELLIGENCE SCOUTING CARD | BATTER EVALUATION
+Candidate: MAHENDRA SINGH DHONI | Rank: #6 | CIE Rating: 68.39
+========================================================================================
+
+1. OPPORTUNITY & EXPOSURE PROFILE
+   • High-Pressure Deliveries Faced: 127 balls across 28 matches
+   • Tournament Allocation: 127 IPL balls | 0 T20I balls
+   • Innings Split: 56 1st Innings balls | 71 2nd Innings balls
+   • Match Consistency: 46.4% positive-RAE matches
+
+2. PERFORMANCE DUALITY (NEUTRAL VS. PRESSURE)
+   Metric                   Neutral Baseline       High-Pressure       Delta (Clutch Elev.)
+   ----------------------------------------------------------------------------------------
+   Strike Rate                  137.80               181.10             +43.30
+   Runs Above Exp / Ball        0.000 (Neutral)          +0.226             +0.226
+   Win Probability Added        0.00%                     +1.63%              +1.63%
+   Runs Scored Under Pressure:  230 runs off 127 balls
+
+3. BAYESIAN HIERARCHICAL PRESSURE-RESPONSE COEFFICIENTS
+   • Baseline Skill Parameter (u_i):       -0.610 ± 0.000
+   • Urgency Response Slope (beta_i):      +1.025 ± 0.273 (Response to rising RRR & resource scarcity)
+   • Leverage Response Slope (theta_i):    +0.012 ± 0.178 (Response to match outcome sensitivity)
+   • Behavioral Archetype:                 Hyper-Clutch Accelerator
+
+4. SAMPLING UNCERTAINTY & RANKING STABILITY (1,000 MATCH-LEVEL BOOTSTRAP REPLICATES)
+   • 95% Rating Confidence Interval:       [49.20, 79.12] (Interval Width: 29.92 pts)
+   • Bootstrap Mean Rank:                  #7.1
+   • Probability of Top-10 Inclusion:     74.5% across resampled cricket seasons
+========================================================================================

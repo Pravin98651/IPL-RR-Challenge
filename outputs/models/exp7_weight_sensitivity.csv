@@ -1,0 +1,6 @@
+config,w_perf,w_clutch,w_cons,top_10
+Baseline (60/30/10),0.6,0.3,0.1,"['Heinrich Klaasen', 'Ashutosh Sharma', 'Shashank Singh', 'Shreyas Iyer', 'Tim David', 'Dinesh Karthik', 'Rashid Khan', 'Suryakumar Yadav', 'Mahendra Singh Dhoni', 'Rovman Powell']"
+High Consistency (50/30/20),0.5,0.3,0.2,"['Heinrich Klaasen', 'Ashutosh Sharma', 'Suryakumar Yadav', 'Tim David', 'Shreyas Iyer', 'Shashank Singh', 'Rashid Khan', 'Dinesh Karthik', 'Rovman Powell', 'Mahendra Singh Dhoni']"
+High Performance (70/20/10),0.7,0.2,0.1,"['Heinrich Klaasen', 'Ashutosh Sharma', 'Shashank Singh', 'Tim David', 'Shreyas Iyer', 'Suryakumar Yadav', 'Dinesh Karthik', 'Rashid Khan', 'Mahendra Singh Dhoni', 'Rovman Powell']"
+High Clutch Delta (40/50/10),0.4,0.5,0.1,"['Heinrich Klaasen', 'Ashutosh Sharma', 'Mahendra Singh Dhoni', 'Shreyas Iyer', 'Shashank Singh', 'Rashid Khan', 'Dasun Shanaka', 'Dinesh Karthik', 'Rovman Powell', 'Suryakumar Yadav']"
+Pure Pressure (80/10/10),0.8,0.1,0.1,"['Heinrich Klaasen', 'Tim David', 'Ashutosh Sharma', 'Shashank Singh', 'Suryakumar Yadav', 'Shreyas Iyer', 'Dinesh Karthik', 'Rashid Khan', 'Mahendra Singh Dhoni', 'Rovman Powell']"

@@ -1,0 +1,30 @@
+========================================================================================
+CLUTCH INTELLIGENCE SCOUTING CARD | BOWLER EVALUATION
+Candidate: FABIAN ALLEN | Rank: #8 | CIE Rating: 64.40
+========================================================================================
+
+1. OPPORTUNITY & EXPOSURE PROFILE
+   • High-Pressure Legal Deliveries Bowled: 25 balls across 4 matches
+   • Tournament Allocation: 0 IPL balls | 25 T20I balls
+   • Innings Split: 6 1st Innings balls | 19 2nd Innings balls
+   • Match Consistency: 100.0% positive-suppression matches
+
+2. PERFORMANCE DUALITY (NEUTRAL VS. PRESSURE)
+   Metric                   Neutral Baseline       High-Pressure       Delta (Clutch Suppr.)
+   ----------------------------------------------------------------------------------------
+   Economy Rate                   9.70                 5.28              +4.42
+   Runs Prevented / Ball        0.000 (Neutral)          +0.362             +0.362
+   Win Probability Added        0.00%                     +0.58%              +0.58%
+   Wickets Taken Under Pressure: 0 wickets in 4.2 overs
+
+3. BAYESIAN HIERARCHICAL PRESSURE-RESPONSE COEFFICIENTS
+   • Baseline Suppression (v_i):          -0.270 ± 0.000
+   • Urgency Response Slope (lambda_i):   +0.210 ± 0.314 (Run suppression as opponent urgency rises)
+   • Leverage Response Slope (phi_i):     +0.428 ± 0.522 (Execution when match swing is acute)
+   • Behavioral Archetype:                Elite Lock-Down Specialist
+
+4. SAMPLING UNCERTAINTY & RANKING STABILITY (1,000 MATCH-LEVEL BOOTSTRAP REPLICATES)
+   • 95% Rating Confidence Interval:      [nan, nan] (Interval Width: nan pts)
+   • Bootstrap Mean Rank:                 #nan
+   • Probability of Top-10 Inclusion:    nan% across resampled cricket seasons
+========================================================================================

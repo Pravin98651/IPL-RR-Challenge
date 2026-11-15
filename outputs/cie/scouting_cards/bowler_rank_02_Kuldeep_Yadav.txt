@@ -1,0 +1,30 @@
+========================================================================================
+CLUTCH INTELLIGENCE SCOUTING CARD | BOWLER EVALUATION
+Candidate: KULDEEP YADAV | Rank: #2 | CIE Rating: 66.69
+========================================================================================
+
+1. OPPORTUNITY & EXPOSURE PROFILE
+   • High-Pressure Legal Deliveries Bowled: 195 balls across 22 matches
+   • Tournament Allocation: 159 IPL balls | 48 T20I balls
+   • Innings Split: 21 1st Innings balls | 186 2nd Innings balls
+   • Match Consistency: 86.4% positive-suppression matches
+
+2. PERFORMANCE DUALITY (NEUTRAL VS. PRESSURE)
+   Metric                   Neutral Baseline       High-Pressure       Delta (Clutch Suppr.)
+   ----------------------------------------------------------------------------------------
+   Economy Rate                   7.95                 8.62              -0.67
+   Runs Prevented / Ball        0.000 (Neutral)          +0.106             +0.106
+   Win Probability Added        0.00%                     +0.41%              +0.41%
+   Wickets Taken Under Pressure: 13 wickets in 32.5 overs
+
+3. BAYESIAN HIERARCHICAL PRESSURE-RESPONSE COEFFICIENTS
+   • Baseline Suppression (v_i):          -0.102 ± 0.000
+   • Urgency Response Slope (lambda_i):   +0.137 ± 0.176 (Run suppression as opponent urgency rises)
+   • Leverage Response Slope (phi_i):     +0.298 ± 0.247 (Execution when match swing is acute)
+   • Behavioral Archetype:                Elite Lock-Down Specialist
+
+4. SAMPLING UNCERTAINTY & RANKING STABILITY (1,000 MATCH-LEVEL BOOTSTRAP REPLICATES)
+   • 95% Rating Confidence Interval:      [49.66, 71.46] (Interval Width: 21.80 pts)
+   • Bootstrap Mean Rank:                 #9.2
+   • Probability of Top-10 Inclusion:    65.2% across resampled cricket seasons
+========================================================================================

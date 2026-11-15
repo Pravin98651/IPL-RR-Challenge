@@ -1,0 +1,23 @@
+player,raw_rank,raw_rating,ctx_rank,ctx_rating,rank_change,role
+Heinrich Klaasen,1.0,75.62,1.0,77.59,0.0,batter
+Ashutosh Sharma,2.0,70.6,2.0,69.71,0.0,batter
+Shashank Singh,3.0,69.68,3.0,69.28,0.0,batter
+Shreyas Iyer,5.0,67.52,4.0,68.22,1.0,batter
+Dinesh Karthik,8.0,66.27,5.0,66.52,3.0,batter
+Tim David,9.0,66.23,6.0,66.48,3.0,batter
+Suryakumar Yadav,7.0,66.3,7.0,66.32,0.0,batter
+Rashid Khan,4.0,68.8,8.0,66.23,-4.0,batter
+Mahendra Singh Dhoni,6.0,66.86,9.0,66.05,-3.0,batter
+Rovman Powell,10.0,63.5,10.0,63.11,0.0,batter
+Sunil Narine,1.0,78.61,1.0,77.83,0.0,bowler
+Krunal Pandya,2.0,73.89,2.0,74.73,0.0,bowler
+Rashid Khan,3.0,70.32,3.0,71.52,0.0,bowler
+Matheesha Pathirana,4.0,69.43,4.0,69.35,0.0,bowler
+Mustafizur Rahman,6.0,65.08,5.0,66.38,1.0,bowler
+Yuzvendra Chahal,7.0,63.18,6.0,65.03,1.0,bowler
+Maheesh Theekshana,5.0,65.52,7.0,64.6,-2.0,bowler
+Varun Chakravarthy,8.0,62.54,8.0,62.46,0.0,bowler
+Jason Holder,,,9.0,62.21,,bowler
+Ravichandran Ashwin,,,10.0,61.61,,bowler
+Avesh Khan,9.0,61.54,,,,bowler
+Axar Patel,10.0,61.34,,,,bowler

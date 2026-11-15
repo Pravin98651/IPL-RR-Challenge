@@ -1,0 +1,8 @@
+scenario,model_a,model_b,model_c
+"Comfortable Chase (RRR=5, 8wkts, 20b)",0.19,0.17,0.19
+"Tight Chase (RRR=9, 6wkts, 20b)",0.52,0.51,0.52
+"Death Overs (inn1, 8th wicket, over18)",0.72,0.72,0.72
+Early Collapse (3wkts/5overs),0.58,0.52,0.58
+"Near-impossible Chase (RRR=18, 4wkts)",0.84,0.42,0.59
+"Super Over (1b, 2 needed)",1.2,0.9,0.84
+"Winning easily (RRR=3, 10wkts)",0.08,0.09,0.09

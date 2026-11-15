@@ -1,0 +1,6 @@
+threshold,pressure_deliveries,top_10_batters
+0.5,48289,"['Rashid Khan', 'Mahendra Singh Dhoni', 'Akeal Hosein', 'Naman Dhir', 'Odean Smith', 'Rinku Singh', 'Suryakumar Yadav', 'Ashutosh Sharma', 'Dinesh Karthik', 'M Shahrukh Khan']"
+0.55,31944,"['Prabhsimran Singh', 'Rinku Singh', 'Ashutosh Sharma', 'Mahendra Singh Dhoni', 'Rashid Khan', 'Shashank Singh', 'George Dockrell', 'Heinrich Klaasen', 'Rovman Powell', 'Jimmy Neesham']"
+0.6,20886,"['Heinrich Klaasen', 'Ashutosh Sharma', 'Shashank Singh', 'Daryl Mitchell', 'Shreyas Iyer', 'Ishan Kishan', 'Tim David', 'Rashid Khan', 'Suryakumar Yadav', 'Dinesh Karthik']"
+0.65,13350,"['Shreyas Iyer', 'Rashid Khan', 'Rovman Powell', 'Tim David', 'Dinesh Karthik', 'Nicholas Pooran', 'Rinku Singh', 'David Miller', 'Jitesh Sharma', 'Ashutosh Sharma']"
+0.7,8861,"['Rashid Khan', 'Tim David', 'David Miller', 'Rahul Tewatia', 'Rovman Powell', 'Dhruv Jurel', 'Namboori Tilak Varma', 'Dasun Shanaka', 'Hardik Pandya', 'Suryakumar Yadav']"

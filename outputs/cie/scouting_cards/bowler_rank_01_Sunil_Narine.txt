@@ -1,0 +1,30 @@
+========================================================================================
+CLUTCH INTELLIGENCE SCOUTING CARD | BOWLER EVALUATION
+Candidate: SUNIL NARINE | Rank: #1 | CIE Rating: 67.36
+========================================================================================
+
+1. OPPORTUNITY & EXPOSURE PROFILE
+   • High-Pressure Legal Deliveries Bowled: 130 balls across 18 matches
+   • Tournament Allocation: 130 IPL balls | 0 T20I balls
+   • Innings Split: 7 1st Innings balls | 123 2nd Innings balls
+   • Match Consistency: 88.9% positive-suppression matches
+
+2. PERFORMANCE DUALITY (NEUTRAL VS. PRESSURE)
+   Metric                   Neutral Baseline       High-Pressure       Delta (Clutch Suppr.)
+   ----------------------------------------------------------------------------------------
+   Economy Rate                   6.94                 6.09              +0.84
+   Runs Prevented / Ball        0.000 (Neutral)          +0.343             +0.343
+   Win Probability Added        0.00%                     +1.40%              +1.40%
+   Wickets Taken Under Pressure: 10 wickets in 21.7 overs
+
+3. BAYESIAN HIERARCHICAL PRESSURE-RESPONSE COEFFICIENTS
+   • Baseline Suppression (v_i):          +0.129 ± 0.000
+   • Urgency Response Slope (lambda_i):   +0.021 ± 0.186 (Run suppression as opponent urgency rises)
+   • Leverage Response Slope (phi_i):     +0.287 ± 0.283 (Execution when match swing is acute)
+   • Behavioral Archetype:                Reliable Executive
+
+4. SAMPLING UNCERTAINTY & RANKING STABILITY (1,000 MATCH-LEVEL BOOTSTRAP REPLICATES)
+   • 95% Rating Confidence Interval:      [63.27, 76.96] (Interval Width: 13.69 pts)
+   • Bootstrap Mean Rank:                 #2.5
+   • Probability of Top-10 Inclusion:    100.0% across resampled cricket seasons
+========================================================================================

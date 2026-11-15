@@ -1,0 +1,78 @@
+table_name,column_name,data_type,non_null_count,null_count,null_percentage,unique_values,description,example_value
+ball_by_ball,match_id,int64,200999,0,0.0,867,Unique match identifier,13511
+ball_by_ball,innings,int64,200999,0,0.0,4,"Innings number (1, 2, or 3/4 for super overs)",1
+ball_by_ball,overid,int64,200999,0,0.0,20,"Over number (1-indexed, 1 to 20)",1
+ball_by_ball,over_ball_num,int64,200999,0,0.0,13,Delivery sequence number within the over (including extras),1
+ball_by_ball,innings_ball_num,int64,200999,0,0.0,136,Delivery sequence number within the innings (including extras),1
+ball_by_ball,batting_team_id,int64,200999,0,0.0,38,ID of the batting team,22
+ball_by_ball,bowling_team_id,int64,200999,0,0.0,38,ID of the bowling team,28
+ball_by_ball,striker_id,int64,200999,0,0.0,888,Unique player ID of the batter facing the delivery,1187
+ball_by_ball,striker_name,object,200999,0,0.0,885,Full name of the batter on strike,Jason Roy
+ball_by_ball,non_striker_id,int64,200999,0,0.0,867,Unique player ID of the batter at non-striker end,6273
+ball_by_ball,non_striker_name,object,200999,0,0.0,864,Full name of the batter at non-striker end,Tom Banton
+ball_by_ball,bowler_id,int64,200999,0,0.0,647,Unique player ID of the bowler delivering the ball,1772
+ball_by_ball,bowler_name,object,200999,0,0.0,646,Full name of the bowler delivering the ball,Sheldon Cottrell
+ball_by_ball,batting_type,object,200999,0,0.0,2,Batting stance (RHB/LHB),RHB
+ball_by_ball,bowling_type,object,200999,0,0.0,12,"Bowling technique (e.g., Right-arm fast, Left-arm orthodox)",Left-arm fast-medium
+ball_by_ball,batting_order,int64,200999,0,0.0,13,Player batting lineup position (1 to 11),1
+ball_by_ball,runs,int64,200999,0,0.0,7,Runs scored off the bat by the striker,0
+ball_by_ball,is_four,bool,200999,0,0.0,2,Boolean flag if delivery resulted in a boundary four,False
+ball_by_ball,is_six,bool,200999,0,0.0,2,Boolean flag if delivery resulted in a boundary six,False
+ball_by_ball,is_wicket,bool,200999,0,0.0,2,Boolean flag if a wicket fell on the delivery,False
+ball_by_ball,dismissal_type_id,float64,10881,190118,94.59,8,ID for the dismissal type,1.0
+ball_by_ball,dismissal_type,object,10881,190118,94.59,9,"Method of dismissal (Caught, Bowled, LBW, RunOut, Stump, etc.)",Bowled
+ball_by_ball,dismissed_player_id,float64,10892,190107,94.58,814,Player ID of the dismissed batter,1187.0
+ball_by_ball,extras_type,object,11832,189167,94.11,6,"Category of extra (wide, Overstep, legbyes, byes, other, Penalty)",wide
+ball_by_ball,extras1_runs,int64,200999,0,0.0,6,Runs conceded from primary extra,0
+ball_by_ball,extras_2_runs,int64,200999,0,0.0,3,Additional secondary extra runs,0
+ball_by_ball,pace_or_spin,object,200999,0,0.0,2,Pace or Spin classification of the delivery,Pace
+ball_by_ball,bowl_speed,float64,200999,0,0.0,1033,Recorded delivery release speed (km/h),0.0
+ball_by_ball,stroke,object,194841,6158,3.06,30,Classification of batting stroke played,Cover Drive
+ball_by_ball,delivery_style,object,200608,391,0.19,34,"Ball movement/variation (Yorker, Inswing, Off Cutter, etc.)",Inswing
+ball_by_ball,over_or_around,object,200592,407,0.2,2,Bowler angle (Over or Around the wicket),Over
+ball_by_ball,on_or_off,object,200999,0,0.0,2,Line/length focus relative to pitch axes,Off-side
+ball_by_ball,delivery_ist_time,object,200999,0,0.0,200826,Timestamp of delivery in IST (UTC notation),2022-01-23 00:00:00 UTC
+matches,match_id,int64,883,0,0.0,883,Unique match identifier,13511
+matches,comp_id,int64,883,0,0.0,138,Unique tournament/competition identifier,1331
+matches,match_number,int64,883,0,0.0,75,Sequential match number within the tournament,1
+matches,match_date,object,883,0,0.0,686,Match date (YYYY-MM-DD),2022-01-22
+matches,stage,object,883,0,0.0,7,"Tournament stage (League, Super 4, Qualifier, Eliminator, Semi Final, Final)",League
+matches,venue_id,int64,883,0,0.0,98,Unique venue identifier,54
+matches,venue_country,object,883,0,0.0,17,Country where match was hosted,West Indies
+matches,home_team_id,int64,883,0,0.0,36,Identifier for host team,28
+matches,home_team,object,883,0,0.0,36,Name of host team,West Indies
+matches,away_team_id,int64,883,0,0.0,36,Identifier for visiting team,22
+matches,away_team,object,883,0,0.0,36,Name of visiting team,England
+matches,home_team_captain_id,float64,839,44,4.98,89,Player ID of home team captain,494.0
+matches,away_team_captain_id,float64,838,45,5.1,98,Player ID of away team captain,478.0
+matches,toss_win_team_id,float64,868,15,1.7,37,Team ID of toss winner,28.0
+matches,toss_opted,object,868,15,1.7,2,Toss decision (Batting or Fielding),Fielding
+matches,man_of_the_match,int64,883,0,0.0,293,Player ID of Player of the Match awardee,0
+matches,first_inn_revised_overs,float64,25,858,97.17,13,Revised overs for 1st innings under rain/DLS rules,114.0
+matches,second_inn_revised_overs,float64,25,858,97.17,12,Revised overs for 2nd innings under rain/DLS rules,114.0
+matches,revised_target,float64,23,860,97.4,23,DLS revised target score for the chasing team,143.0
+matches,knock_out,int64,883,0,0.0,2,"Binary flag: 1 for knockout/playoff matches, 0 for league/group matches",0
+matches,win_team_id,float64,842,41,4.64,36,Team ID of match winner (null for No Result / Abandoned),28.0
+matches,result,object,883,0,0.0,670,Official match result description string,West Indies Won by 9 Wickets
+competitions,comp_id,int64,141,0,0.0,141,Unique tournament/competition identifier,3395
+competitions,comp_name,object,141,0,0.0,141,Full tournament title,South Africa in New Zealand T20I Series 2026
+competitions,match_format,object,141,0,0.0,2,Match format (T20 or T20I),T20I
+competitions,season,object,141,0,0.0,8,Competition season or year,2026
+competition_team_player_mapping,comp_id,int64,6413,0,0.0,140,Unique tournament/competition identifier,1331
+competition_team_player_mapping,comp_name,object,6413,0,0.0,140,Full tournament title,England in West Indies T20I Series 2022
+competition_team_player_mapping,team_id,int64,6413,0,0.0,38,Unique team identifier,22
+competition_team_player_mapping,team_name,object,6413,0,0.0,38,Official team name,England
+competition_team_player_mapping,player_id,int64,6413,0,0.0,1217,Unique player identifier,478
+competition_team_player_mapping,player_name,object,6413,0,0.0,1210,Official player name,Eoin Morgan
+playing_eleven,match_id,int64,28381,0,0.0,880,Unique match identifier,13511
+playing_eleven,team_id,int64,28381,0,0.0,38,Unique team identifier,22
+playing_eleven,player_id,int64,28381,0,0.0,1082,Unique player identifier,1187
+playing_eleven,batting_order,float64,19703,8678,30.58,13,Player batting lineup position (1 to 11),1.0
+playing_eleven,is_played,bool,28381,0,0.0,2,Boolean flag if player participated in the playing XI / match,True
+playing_eleven,is_captain,object,19714,8667,30.54,2,Boolean flag if player captained the team,False
+playing_eleven,is_wk,object,19714,8667,30.54,2,Boolean flag if player acted as designated wicketkeeper,False
+playing_eleven,is_impact,int64,28381,0,0.0,2,Flag: 1 if player substituted in as IPL Impact Player,0
+playing_eleven,is_impact_off,int64,28381,0,0.0,2,Flag: 1 if player substituted out as IPL Impact Player,0
+teams,comp_id,int64,353,0,0.0,141,Unique tournament/competition identifier,1331
+teams,team_id,int64,353,0,0.0,38,Unique team identifier,22
+teams,team_name,object,353,0,0.0,38,Official team name,England

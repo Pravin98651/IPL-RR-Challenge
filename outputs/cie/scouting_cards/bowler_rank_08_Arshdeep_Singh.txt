@@ -1,0 +1,30 @@
+========================================================================================
+CLUTCH INTELLIGENCE SCOUTING CARD | BOWLER EVALUATION
+Candidate: ARSHDEEP SINGH | Rank: #8 | CIE Rating: 58.82
+========================================================================================
+
+1. OPPORTUNITY & EXPOSURE PROFILE
+   • High-Pressure Legal Deliveries Bowled: 502 balls across 79 matches
+   • Tournament Allocation: 301 IPL balls | 237 T20I balls
+   • Innings Split: 224 1st Innings balls | 314 2nd Innings balls
+   • Match Consistency: 70.9% positive-suppression matches
+
+2. PERFORMANCE DUALITY (NEUTRAL VS. PRESSURE)
+   Metric                   Neutral Baseline       High-Pressure       Delta (Clutch Suppr.)
+   ----------------------------------------------------------------------------------------
+   Economy Rate                   9.01                 9.81              -0.80
+   Runs Prevented / Ball        0.000 (Neutral)          +0.061             +0.061
+   Win Probability Added        0.00%                     +0.21%              +0.21%
+   Wickets Taken Under Pressure: 31 wickets in 83.7 overs
+
+3. BAYESIAN HIERARCHICAL PRESSURE-RESPONSE COEFFICIENTS
+   • Baseline Suppression (v_i):          -0.035 ± 0.000
+   • Urgency Response Slope (lambda_i):   +0.090 ± 0.101 (Run suppression as opponent urgency rises)
+   • Leverage Response Slope (phi_i):     +0.018 ± 0.086 (Execution when match swing is acute)
+   • Behavioral Archetype:                Elite Lock-Down Specialist
+
+4. SAMPLING UNCERTAINTY & RANKING STABILITY (1,000 MATCH-LEVEL BOOTSTRAP REPLICATES)
+   • 95% Rating Confidence Interval:      [50.11, 65.68] (Interval Width: 15.57 pts)
+   • Bootstrap Mean Rank:                 #11.9
+   • Probability of Top-10 Inclusion:    44.4% across resampled cricket seasons
+========================================================================================

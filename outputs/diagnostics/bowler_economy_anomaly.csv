@@ -1,0 +1,11 @@
+rank,bowler_name,pressure_economy,normal_economy,delta_economy,worse_under_pressure
+1,Sunil Narine,6.09,6.94,0.84,False
+2,Krunal Pandya,6.42,7.98,1.56,False
+3,Rashid Khan,7.67,7.42,-0.26,True
+4,Matheesha Pathirana,8.83,8.86,0.03,False
+5,Mustafizur Rahman,8.16,7.75,-0.42,True
+6,Yuzvendra Chahal,8.87,8.59,-0.28,True
+7,Maheesh Theekshana,7.49,7.79,0.3,False
+8,Varun Chakravarthy,7.84,8.03,0.19,False
+9,Jason Holder,9.36,8.95,-0.4,True
+10,Ravichandran Ashwin,8.39,7.81,-0.58,True

@@ -1,0 +1,30 @@
+========================================================================================
+CLUTCH INTELLIGENCE SCOUTING CARD | BOWLER EVALUATION
+Candidate: MAYANK YADAV | Rank: #2 | CIE Rating: 67.47
+========================================================================================
+
+1. OPPORTUNITY & EXPOSURE PROFILE
+   • High-Pressure Legal Deliveries Bowled: 35 balls across 6 matches
+   • Tournament Allocation: 19 IPL balls | 16 T20I balls
+   • Innings Split: 18 1st Innings balls | 17 2nd Innings balls
+   • Match Consistency: 83.3% positive-suppression matches
+
+2. PERFORMANCE DUALITY (NEUTRAL VS. PRESSURE)
+   Metric                   Neutral Baseline       High-Pressure       Delta (Clutch Suppr.)
+   ----------------------------------------------------------------------------------------
+   Economy Rate                   9.46                 8.57              +0.89
+   Runs Prevented / Ball        0.000 (Neutral)          +0.096             +0.096
+   Win Probability Added        0.00%                     +0.88%              +0.88%
+   Wickets Taken Under Pressure: 2 wickets in 5.8 overs
+
+3. BAYESIAN HIERARCHICAL PRESSURE-RESPONSE COEFFICIENTS
+   • Baseline Suppression (v_i):          -0.384 ± 0.000
+   • Urgency Response Slope (lambda_i):   +0.437 ± 0.240 (Run suppression as opponent urgency rises)
+   • Leverage Response Slope (phi_i):     +0.618 ± 0.387 (Execution when match swing is acute)
+   • Behavioral Archetype:                Elite Lock-Down Specialist
+
+4. SAMPLING UNCERTAINTY & RANKING STABILITY (1,000 MATCH-LEVEL BOOTSTRAP REPLICATES)
+   • 95% Rating Confidence Interval:      [nan, nan] (Interval Width: nan pts)
+   • Bootstrap Mean Rank:                 #nan
+   • Probability of Top-10 Inclusion:    nan% across resampled cricket seasons
+========================================================================================

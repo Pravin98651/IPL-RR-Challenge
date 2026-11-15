@@ -1,0 +1,30 @@
+========================================================================================
+CLUTCH INTELLIGENCE SCOUTING CARD | BOWLER EVALUATION
+Candidate: VYSHAK KUMAR | Rank: #3 | CIE Rating: 66.79
+========================================================================================
+
+1. OPPORTUNITY & EXPOSURE PROFILE
+   • High-Pressure Legal Deliveries Bowled: 38 balls across 7 matches
+   • Tournament Allocation: 44 IPL balls | 0 T20I balls
+   • Innings Split: 10 1st Innings balls | 34 2nd Innings balls
+   • Match Consistency: 85.7% positive-suppression matches
+
+2. PERFORMANCE DUALITY (NEUTRAL VS. PRESSURE)
+   Metric                   Neutral Baseline       High-Pressure       Delta (Clutch Suppr.)
+   ----------------------------------------------------------------------------------------
+   Economy Rate                  10.63                 8.53              +2.10
+   Runs Prevented / Ball        0.000 (Neutral)          +0.519             +0.519
+   Win Probability Added        0.00%                     +1.21%              +1.21%
+   Wickets Taken Under Pressure: 2 wickets in 6.3 overs
+
+3. BAYESIAN HIERARCHICAL PRESSURE-RESPONSE COEFFICIENTS
+   • Baseline Suppression (v_i):          -0.332 ± 0.000
+   • Urgency Response Slope (lambda_i):   +0.017 ± 0.251 (Run suppression as opponent urgency rises)
+   • Leverage Response Slope (phi_i):     +0.944 ± 0.352 (Execution when match swing is acute)
+   • Behavioral Archetype:                Reliable Executive
+
+4. SAMPLING UNCERTAINTY & RANKING STABILITY (1,000 MATCH-LEVEL BOOTSTRAP REPLICATES)
+   • 95% Rating Confidence Interval:      [nan, nan] (Interval Width: nan pts)
+   • Bootstrap Mean Rank:                 #nan
+   • Probability of Top-10 Inclusion:    nan% across resampled cricket seasons
+========================================================================================

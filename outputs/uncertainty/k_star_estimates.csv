@@ -1,0 +1,3 @@
+role,k_star,noise_per_ball,talent_var,avg_balls_per_match,outcome_col
+batting,2212.0,3.195260848422201,0.0014445121376230566,4.856959753909254,runs_above_expectation
+bowling,2000.0,3.190231087636953,0.0015951155438184766,6.03144048764838,runs_prevented

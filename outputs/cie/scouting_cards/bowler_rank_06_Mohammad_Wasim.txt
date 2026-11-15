@@ -1,0 +1,30 @@
+========================================================================================
+CLUTCH INTELLIGENCE SCOUTING CARD | BOWLER EVALUATION
+Candidate: MOHAMMAD WASIM | Rank: #6 | CIE Rating: 65.15
+========================================================================================
+
+1. OPPORTUNITY & EXPOSURE PROFILE
+   • High-Pressure Legal Deliveries Bowled: 42 balls across 8 matches
+   • Tournament Allocation: 0 IPL balls | 46 T20I balls
+   • Innings Split: 25 1st Innings balls | 21 2nd Innings balls
+   • Match Consistency: 75.0% positive-suppression matches
+
+2. PERFORMANCE DUALITY (NEUTRAL VS. PRESSURE)
+   Metric                   Neutral Baseline       High-Pressure       Delta (Clutch Suppr.)
+   ----------------------------------------------------------------------------------------
+   Economy Rate                   8.74                 7.57              +1.17
+   Runs Prevented / Ball        0.000 (Neutral)          +0.483             +0.483
+   Win Probability Added        0.00%                     +2.14%              +2.14%
+   Wickets Taken Under Pressure: 3 wickets in 7.0 overs
+
+3. BAYESIAN HIERARCHICAL PRESSURE-RESPONSE COEFFICIENTS
+   • Baseline Suppression (v_i):          -0.085 ± 0.000
+   • Urgency Response Slope (lambda_i):   +0.122 ± 0.246 (Run suppression as opponent urgency rises)
+   • Leverage Response Slope (phi_i):     +0.264 ± 0.305 (Execution when match swing is acute)
+   • Behavioral Archetype:                Elite Lock-Down Specialist
+
+4. SAMPLING UNCERTAINTY & RANKING STABILITY (1,000 MATCH-LEVEL BOOTSTRAP REPLICATES)
+   • 95% Rating Confidence Interval:      [nan, nan] (Interval Width: nan pts)
+   • Bootstrap Mean Rank:                 #nan
+   • Probability of Top-10 Inclusion:    nan% across resampled cricket seasons
+========================================================================================
